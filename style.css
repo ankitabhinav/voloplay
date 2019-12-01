@@ -1,0 +1,24 @@
+body {
+  background-color: #3f406c;
+  }
+
+  .card {
+    width: 100%; border-style: none;
+  }
+  .marginTop {
+    margin-top:5%;
+  }
+  .removeBorder {
+    border-radius: 0px;
+  }
+  .cardBackGroundColor {
+    background-color: #5a5f89; 
+  }
+  .greyColoredText{
+    color: #acb1d9;
+  }
+  .whiteColoredText{
+    color:white;
+  }
+  .marginT
+
